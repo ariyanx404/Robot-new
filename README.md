@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ariyanx404">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
